@@ -1,0 +1,21 @@
+.autorBox{
+    margin-top: 15px;
+    background-color: #EEEDEB;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.kentaroImg{
+    border-radius: 5px;
+    width: 120px;
+}
+
+.dataBox{
+    display: flex;
+    justify-content: center;
+}
+
+.dataBox p{
+    padding: 15px;
+    
+}
